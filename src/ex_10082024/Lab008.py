@@ -9,8 +9,26 @@ age = 36
 
 a = 10
 _ = 45
-# - = -+10
-abc123 = 123
-_123 = 999
-_CVBN = 1234
-print(_, a, _123, _CVBN)
+_ = _+10
+print(_)
+
+abc123 = 78
+#123abc = 90
+_Preeti = "Bharat"
+# $123 = 67
+# &123 = 88
+
+pi = 3.14
+name = "Preeti"
+isMale = True
+print(type(pi))
+print(type(name))
+print(type(isMale))
+
+complex_number = 2 + 3j
+print(complex_number.real)
+print(complex_number.imag)
+
+
+
+

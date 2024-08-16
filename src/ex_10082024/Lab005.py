@@ -2,4 +2,4 @@
 
 print(max(33, 100, 200))
 
-print(max(90, "ART", 12.34))
+# print(max(90, "ART", 12.34))
