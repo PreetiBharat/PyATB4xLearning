@@ -1,6 +1,7 @@
 # keywords and Identifiers
 
 import keyword
+
 print(keyword.kwlist)
 
 # ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else',
@@ -12,5 +13,4 @@ age = 65
 print(age)
 
 age = 100
-print(age
-      )
+print(age)
