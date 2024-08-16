@@ -1,3 +1,16 @@
-# pyhton gives error when finding max btw integers and string
+# keywords and Identifiers
 
-print(max(90, "ART", 12.34))
+import keyword
+print(keyword.kwlist)
+
+# ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else',
+# 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise',
+# 'return', 'try', 'while', 'with', 'yield']
+
+# variable:  it is used to store value - like container
+age = 65
+print(age)
+
+age = 100
+print(age
+      )

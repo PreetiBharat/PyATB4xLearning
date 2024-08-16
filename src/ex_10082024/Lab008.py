@@ -1,16 +1,16 @@
-# keywords and Identifiers
+age = 36
+# 123 = 36 nOt  like possible. we cannot use variable name like this
 
-import keyword
-print(keyword.kwlist)
+# variable : can start with A-Z and a-z
+# can start with underscore "_" followed by zero or more letters
+# underscore,  digits 0-9
+# py is case sensitive
+# myvariable and myVariable are two diff identifiers.
 
-# ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else',
-# 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise',
-# 'return', 'try', 'while', 'with', 'yield']
-
-# variable:  it is used to store value - like container
-age = 65
-print(age)
-
-age = 100
-print(age
-      )
+a = 10
+_ = 45
+- = -+10
+abc123 = 123
+_123 = 999
+_Preeti = 1234
+print(_)
