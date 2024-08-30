@@ -1,5 +1,4 @@
-# continue statement
-# continue statement skips the current iteration of a loop and
+# Continue statement skips the current iteration of a loop and
 # moves to the next iteration.
 
 for number in range(1, 10):

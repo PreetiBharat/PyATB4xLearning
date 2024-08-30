@@ -1,8 +1,9 @@
 # Match Statement
-# Its called Switch in Java
+# It's called Switch in Java
 # match the o/p and execute
 # This works only when Python version > 3.10
 
+# Syntax:
 # match variable:
 #     case pattern1:
 #         # code block
@@ -23,5 +24,5 @@ match browser_name:
         print("Execute the Edge Code")
     case "safari":
         print("Execute the Safari Code")
-    case _:
+    case _:  # _ means default value
         print("Browser Not Found!")
