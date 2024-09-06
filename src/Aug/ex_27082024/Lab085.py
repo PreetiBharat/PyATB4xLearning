@@ -1,40 +1,8 @@
-def decorator1(func):
-    def wrapper():
-        print("Decorator 1")
-        func()
+# Type conversion
+# int(), bool(), float(), str(), list(), tuple(), dict(), set(),complex()
+a = "10"
+print(type(a))
+a = int(a)
+print(type(a))
 
-    return wrapper
-
-
-def decorator2(func):
-    def wrapper():
-        print("Decorator 2")
-        func()
-
-    return wrapper
-
-
-@decorator1
-@decorator2
-def say_hello():
-    print("Hello!")
-
-
-say_hello()
-
-
-def decorator2(func):
-    def wrapper():
-        print("decorator2")
-        func()
-
-    return wrapper()
-
-
-@decorator1
-@decorator2
-def say_hello():
-    print("hello")
-
-
-say_hello()
+print(float(a))
