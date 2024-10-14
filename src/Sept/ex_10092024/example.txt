@@ -1,0 +1,18 @@
+Hello there(Lab154)
+
+An exception is an event that occurs during the execution of a program that disrupts the normal flow of instructions
+
+Exception: The base class for all built-in exceptions.
+SyntaxError: Raised when there is a syntax error in the code.
+IndentationError: Raised when there is an indentation-related error, such as incorrect or inconsistent indentation.
+NameError: Raised when a local or global name is not found.
+TypeError: Raised when an operation or function is performed on an object of an inappropriate type.
+ValueError: Raised when a function receives an argument of the correct type but an invalid value.
+ZeroDivisionError: Raised when division or modulo by zero is encountered.
+IndexError: Raised when a sequence subscript is out of range.
+KeyError: Raised when a dictionary key is not found.
+FileNotFoundError: Raised when a file or directory is requested but cannot be found.
+IOError: Raised when an input/output operation fails.
+ImportError: Raised when an import statement fails to find and load a module.
+AttributeError: Raised when an attribute reference or assignment fails.
+RuntimeError: Raised when an error occurs that doesn't belong to any specific category.

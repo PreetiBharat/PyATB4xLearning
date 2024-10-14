@@ -24,7 +24,7 @@ class MathOperations(O):
         return a - b
 
 
-# Non Static in Nature - Object creation is mandatory
+# Non-Static in Nature - Object creation is mandatory
 object_ref = MathOperations()
 output = object_ref.div(10, 5)
 output2 = object_ref.mul(10, 5)
