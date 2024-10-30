@@ -1,0 +1,1 @@
+{"firstname":"Eric","lastname":"Smith","totalprice":698,"depositpaid":false,"bookingdates":{"checkin":"2017-09-18","checkout":"2018-12-14"},"additionalneeds":"Breakfast"}
