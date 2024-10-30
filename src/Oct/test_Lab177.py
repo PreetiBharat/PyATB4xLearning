@@ -10,7 +10,7 @@ import requests
 @allure.title("Test GET Request - RestFUL BOOKER Project#1")
 @allure.description("TC#1 -> Verify that GET Request with ID works")
 @allure.tag("regression", "p0", "smoke")
-@allure.label("owner", "Pramod Dutta")
+@allure.label("owner", "PreetiBharat")
 @allure.testcase("TC#1")
 @pytest.mark.smoke
 def test_get_single_request_by_id_positive():
