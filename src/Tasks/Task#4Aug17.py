@@ -5,3 +5,5 @@ radius = int(input("Enter radius of the circle\n"))
 pi = 3.1415
 area = pi * (radius ** 2)
 print(f"Area of the Circle-> {area}")
+
+# print("area of the circle is", area)
