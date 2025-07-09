@@ -11,7 +11,7 @@ class person:
     address = None
 
     # Behaviour
-    def talk(self):  # NRNG  # self(this in java) self will be first argument in every behaviour.
+    def talk(self):  # NRNA  # self('this' in java) self will be first argument in every behaviour.
         print("I can Talk")
 
     def sleep(self, name):  # Arg with No Return

@@ -30,7 +30,7 @@ print("this is not part of h as it is not following indentation")
 # pramod_dutta - underscore case - This is what python follows.
 
 def first_part_last_name():
-    pass  # in future I will complete this functions
+    pass  # in the future, I will complete this functions
 
 
 def name_pramod():
